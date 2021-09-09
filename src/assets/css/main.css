@@ -1220,6 +1220,7 @@ h4 {
   width: 100%;
   color: inherit;
   resize: none;
+  text-align: center;
 }
 .popup-design .form input::placeholder,
 .popup-design .form textarea::placeholder {
